@@ -1,0 +1,60 @@
+{
+	"ourhomes": [
+	   {
+			"owner": "Jane Doe",
+			"address": "123 Hwy 544 Myrtle Beach, SC 29588",
+			"numrooms": "5",
+			"squarefoot": "1250",
+			"listprice": "$125,000"
+		},
+		 {
+			"owner": "John Doe",
+			"address": "1453 Highmarket St Gtown, SC 29440",
+			"numrooms": "2",
+			"squarefoot": "500",
+			"listprice": "$100,000"
+		},
+		 {
+			"owner": "Joy Mack",
+			"address": "4567 Hwy 17 Myrtle Beach, SC 29588",
+			"numrooms": "4",
+			"squarefoot": "3000",
+			"listprice": "$130,000"
+		},
+		 {
+			"owner": "Arthur McGee",
+			"address": "1264 Hwy 544 Conway, SC 29526",
+			"numrooms": "5",
+			"squarefoot": "1325",
+			"listprice": "$125,000"
+		},
+		 {
+			"owner": "Monica Johnson",
+			"address": "4564 Hwy 17 Myrtle Beach, SC 29577",
+			"numrooms": "2",
+			"squarefoot": "950",
+			"listprice": "$80,000"
+		},
+		 {
+			"owner": "Marvin Smith",
+			"address": "4545 Hwy 544 Myrtle Beach, SC 29588",
+			"numrooms": "3",
+			"squarefoot": "3434",
+			"listprice": "$175,000"
+		},
+		 {
+			"owner": "Larry Hoover",
+			"address": "6766 Old Charleston Rd Gtown, SC 29440",
+			"numrooms": "7",
+			"squarefoot": "6754",
+			"listprice": "$200,000"
+		},
+		 {
+			"owner": "Bobby Darest",
+			"address": "1645 Hwy 544 Myrtle Beach, SC 29577",
+			"numrooms": "2",
+			"squarefoot": "600",
+			"listprice": "$50,000"
+		}
+	]
+}
